@@ -1,5 +1,5 @@
 //Author: Sahil Anand
-//Problem Link: https://leetcode.com/problems/set-matrix-zeroes/submissions/
+//Problem Link: https://leetcode.com/problems/set-matrix-zeroes/
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
